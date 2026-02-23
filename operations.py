@@ -6,5 +6,6 @@ num2 = 3
 x = addnumbers(num1,num2)
 print(x)
 
-def mult(a,b):
+def mult(a,b):g
   return a*b
+
